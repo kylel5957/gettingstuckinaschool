@@ -1,5 +1,5 @@
 You talk to the suspiscious figure but it turns out it was a thief. He beats you up and you die from your wounds.
 
-## You die!!
+# You die!!
 
-[Start Over](../home.md)
+[Start Over](../README.md)
