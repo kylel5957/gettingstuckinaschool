@@ -1,7 +1,7 @@
 Lots of spiderwebs on the walls and windows with lights are off
 
 Select one of the following options:
-## [Throw a rock at the window](rock-at-window)
-## [Walk closer to the windows](walk-closer)
+## [Throw a rock at the window](rock.md)
+## [Walk closer to the windows](walk-closer.md)
 
-[Start Over](../home.md)
+[Start Over](../README.md)
