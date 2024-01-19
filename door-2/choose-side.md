@@ -4,4 +4,4 @@ Select one of the following options:
 ## [left](left.md)
 ## [right](right.md)
 
-[Start Over](../home.md)
+[Start Over](../README.md)
