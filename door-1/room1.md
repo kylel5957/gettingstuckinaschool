@@ -1,4 +1,4 @@
-You find yourself with two choices: Turn left or Turn Right?
+You find yourself with two choices: Turn Left or Turn Right?
 
 [Turn Left](door.md)
 [Turn Right](lights.md)

@@ -2,5 +2,5 @@ You find yourself stuck in a school.
 
 You have to choose two choices in order to escape.
 
-[Turn Left](door-1)
+[Turn Left](room1.md)
 [Turn Right](door-2)
