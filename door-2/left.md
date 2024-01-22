@@ -1,4 +1,4 @@
-Lots of spiderwebs on the walls and windows with lights are off
+# Lots of spiderwebs on the walls and windows with lights are off
 
 Select one of the following options:
 ## [Throw a rock at the window](rock.md)
