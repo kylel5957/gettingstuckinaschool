@@ -4,4 +4,4 @@ The pills teleport you out of the school safely.
 
 ![Teleport](https://nerdcaster.com/wp-content/uploads/2020/02/teleport-1.jpg)
 
-[Start Over](../README.md)
+[Start Over](../Start-here.md)
