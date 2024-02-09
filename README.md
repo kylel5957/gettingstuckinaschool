@@ -3,3 +3,6 @@
 ### Start by click the bottom link that says "Start here".
 
 # [Start here](Start-here.md)
+
+## Check out what it looks like in HTML
+# [Click here](HTML-VERSION/README.html)
